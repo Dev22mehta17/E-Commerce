@@ -1,2 +1,2 @@
 # E-Commerce
-AN E-Commerce website for footwears.
+AN E-Commerce website for footwares.
